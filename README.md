@@ -1,2 +1,12 @@
-# IESE_presession_23
-Pre-session materials for the 2023 Machine Learning for Textual and Unstructured Data course at IESE
+# IESE Machine Learning for Textual and Unstructured Data 2023 <br><br> *Pre-session material*
+
+
+Write a brief desription
+
+## Additional resources
+
+### GitHub
+
+### Jupyter Notebooks
+
+### Google Colab
