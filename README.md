@@ -3,7 +3,11 @@
 ## Seminar repository
 
 - [FRA_IESE_seminar_2023](https://github.com/unstructured-data/FRA_IESE_seminar_2023)
-Pre-session materials for the 2023 Machine Learning for Textual and Unstructured Data seminar at IESE.
+
+
+## Pre-session 
+
+Materials for the 2023 Machine Learning for Textual and Unstructured Data seminar at IESE.
 
 ## Python resources:
 
